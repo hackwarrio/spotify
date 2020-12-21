@@ -1,0 +1,222 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #A9CCE3;
+    height: 100%;
+    width: 100%;
+}
+.principal{
+    margin: 20px auto;
+    padding: 0;
+    width: 90%;
+    
+    
+}
+.secundario{
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    background-color: #fff ;
+    text-align: center;
+    
+}
+.tercero{
+    height: 10;
+    align-content: center;
+}
+.cuarto{
+    background-color: #fff ;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: 200px;
+}
+
+.titulo1{
+    outline: none;
+    padding-top: 10%;
+    width: 100%;
+    margin: 20px auto;
+    font-size: 300%;
+
+}
+.titulo2{
+    outline: none;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    font-size: 120%;
+    font-family: 'Roboto@50', sans-serif;
+    margin: 20px auto;
+    width: 90%;
+
+}
+input[type="submit"]{
+    padding-inline-start: 40px;
+    padding-inline-end: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+    background: rgb(0,0,0);
+    margin-top: 0;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: medium;
+    font-style: initial;
+    font-family: 'Roboto@', sans-serif;
+    margin-bottom: 20px;
+}
+input[type="submit"]:hover{
+    background-color: rgb(0,0,0);
+    padding-inline-start: 41px;
+    padding-inline-end: 41px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-size: large;
+    
+}
+.parr1{
+    padding-top: 30px;
+    font-size: 75%;
+}
+.parr2{
+    font-size: 75%;
+    padding-bottom: 10%;
+}
+#segunda_pantalla____Division
+
+
+
+.foto{
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    float: right;
+}
+.enganche{
+    outline: none;
+    padding-top: 4%;
+    width: 100%;
+    margin: 20px auto;
+    font-size: 250%;
+}
+.enganche2{
+    width: 70%;
+    outline: none;
+    padding-top: 2%;
+    margin: 20px auto;
+    font-size: 100%;
+}
+#tercero________________
+.letras_tercero{
+    height: 40%;
+    
+}
+.letras_tercero_2{
+    padding-bottom: 8%;
+    
+}
+.titulo_cuarto{
+    padding: 4%;
+    font-size: 200%;
+}
+.list1{
+    width: 100%;
+}
+.list1{
+    padding: 2px;
+    height: 10vw;
+    width: 30% ;
+    background: #fff;
+    margin: 0;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;   
+}
+.list2{
+    padding: 2px;
+    height: 10vw;
+    width: 35% ;
+    background: #fff;
+    margin: 0;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;   
+}
+.list3{
+    padding: 2px;
+    height: 10vw;
+    margin: 0;
+    background: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;   
+}
+@media screen and (max-width: 1000px){
+    .cuarto{
+        background-color: #fff ;
+        text-align: center;
+        margin: 0 auto;
+        padding: 10px;
+        width: 100%;
+    }
+   
+    .list1{
+    padding: 1%;
+    height: 15vw;
+    margin: 0;
+    background: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    width: 100%;
+    float: none;
+   }
+    .list2{
+    padding: 1%;
+    height: 15vw;
+    margin: 0;
+        
+    width: 100%;
+    float: none;
+    }
+    .list3{
+        padding: 1%;
+        height: 15vw;
+        margin: 0;
+        width: 100%;
+        float: none;
+    }
+    h3{
+        margin-top: 10px;
+        text-align: center;
+    
+        width: 100%;
+    }
+    .secundario{
+        background: #fff;
+        outline: none;
+        padding-top: 4%;
+        padding-bottom: 0;
+        width: 100%;
+      
+    }
+    
+    .foto{
+        margin: 0;
+        height: 30%;
+        width:100%;
+        
+        background-color: #fff;
+        
+    }
+}
+h3{ 
+    
+    text-align: center;
+    
+}
+
+
